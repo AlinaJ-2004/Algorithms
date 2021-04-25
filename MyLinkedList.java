@@ -122,10 +122,5 @@ public class MyLinkedList<T>
         System.out.println("Reversing the MyLinkedlist:");
         list.reverse();
         list.display();
-//        llist.display();
-//        llist.remove(0);
-//        System.out.println();
-//        System.out.println("LinkedList after the removal of elements based on their indexes:");
-//        llist.display();
     }
 }
